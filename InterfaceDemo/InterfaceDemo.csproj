@@ -42,8 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Goudvis.cs" />
+    <Compile Include="Hond.cs" />
+    <Compile Include="Huisdier.cs" />
+    <Compile Include="IZwemmen.cs" />
+    <Compile Include="ILopen.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Salamander.cs" />
+    <Compile Include="Schildpad.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
